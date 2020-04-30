@@ -1,5 +1,5 @@
 # CPPwithMiyoshi
-Companion repo for my book <i>C++ with Miyoshi</i>.
+Companion repo for my book <a href="https://amzn.to/3bQuePT" target="_blank"><i>C++ with Miyoshi</i></a>.
 
 I provide my book, C++ with Miyoshi, to the students in my class, but it is also available online at 
 https://amzn.to/3bQuePT  (I suppose you could call this an ad.)
