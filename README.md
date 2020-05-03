@@ -10,4 +10,10 @@ At first, it will have code snippets and a couple Visual Studio projects that pe
 ## Associated Repos:
 **<a href="https://github.com/MichaelTMiyoshi/CPPwithMiyoshi-01VarsAndConsts" target="_blank">Variables and Constants</a>**  (First repo to clone)
 
-**<a href="https://github.com/MichaelTMiyoshi/WilliamsGameEngineVS2019" target="_blank">Game Engine Tutorial</a> (original written by <a href="https://github.com/ericwill-msft" target="_blank">Eric Williams</a>):**
+If you are reading my book, you will want to clone your first Visual Studio project. It is similar to the variables and constants file found in the book, but slightly different.
+
+I am using Visual Studio Community 2019. The nice thing about that Integrated Development Environment (IDE) is that you can just do the cloning when you running the IDE. When you open the VS 2019, you will see the clone option right there. Some people have lamented the old start screen, but if you are cloning projects from repositories, you will probably like it. It is the first choice.
+
+**<a href="https://github.com/MichaelTMiyoshi/WilliamsGameEngineVS2019" target="_blank">Game Engine Tutorial</a>**
+
+The game engine tutorial is an SFML project, and is a precursor to the culminating project I have in my class.  The tutorial and initial project were written by <a href="https://github.com/ericwill-msft" target="_blank">Eric Williams</a>).  The Visual Studio 2019 version of the project was updated (from the 2015 version) by <a href="https://github.com/MikeMag" target="_blank">Mike Magruder</a>.
