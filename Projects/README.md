@@ -1,0 +1,3 @@
+These problem statements are the ones I use in my class and that are in my book.  I group them into what I call goal sheets.  Each goal sheet is slated to take two weeks.  We end the first semester with enum and struct.
+
+I will have the problems in files representing those two week goal sheets.  By the way, if you count the number of goal sheets and know that a typical high school calendar has 18 weeks per semester, you will wonder why there are not 9 goal sheets with problems.  That is because I have catch up goal sheets in my class.  (Sorry, no mustard ones, but one of my former students said that everybody ought to relish every goal sheet.)  Which is also why they are not numbered sequentially.  (Or maybe why I will put the catch up goal sheets in the sequence.)
