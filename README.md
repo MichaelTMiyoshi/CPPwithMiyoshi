@@ -1,18 +1,21 @@
 # CPPwithMiyoshi
-Companion repo for my book <a href="https://amzn.to/3bQuePT" target="_blank"><i>C++ with Miyoshi</i></a>.
+This is the companion repo for my book <a href="https://amzn.to/3bQuePT" target="_blank"><i>C++ with Miyoshi</i></a>.
 
-I provide my book, <a href="https://amzn.to/3bQuePT" target="_blank"><i>C++ with Miyoshi</i></a>, to the students in my class, but to those who do not attend my class, it is available online at either of the above links.  (I suppose you could call this an ad.)
+I provide my book, <a href="https://amzn.to/3bQuePT" target="_blank"><i>C++ with Miyoshi</i></a>, to the students in my class, but to those who are not in my class, the book is available online at either of the above links.  (I suppose you could call this an ad.)
 
-This repo will change and grow and change in time with feedback from my students and other readers.
+This repo will change and grow in time with feedback from my students and other readers.
 
-At first, it will have code snippets and a couple Visual Studio projects that people can clone.  Who knows where it will go from there.
+At first, it will have code snippets and a couple Visual Studio projects that people can clone.  It will then include problems and projects and something I like to call competency tests.  Who knows where it will go from there.
+
+# Notes on Integrated Development Environment (IDE)
+I am using Visual Studio Community 2019. The nice thing about that Integrated Development Environment (IDE) is that you can just do the cloning when you are running the IDE. When you open the VS 2019, you will see the clone option right there. Some people have lamented the demise of the old start screen, but if you are cloning projects from repositories, you will probably like it. It is the first choice.
+
+If you are not using Visual Studio, you can still benefit from the repos.  Just create your projects (and/or repos) in your IDE of choice.  Then, grab the .cpp files from my repos.  This will work with all of my repos except the Game Engine Tutorial.  You will need to create an SFML project and probably a bunch more work.  Or you can just use Visual Studio for that project.  After all, the community edition is free.
 
 ## Associated Repos:
 **<a href="https://github.com/MichaelTMiyoshi/CPPwithMiyoshi-01VarsAndConsts" target="_blank">Variables and Constants</a>**  (First repo to clone)
 
-If you are reading my book, you will want to clone your first Visual Studio project. It is similar to the variables and constants file found in the book, but slightly different.  It is a great jumping off point for not only the Variables and Constants problem (GS1-5), but can be used as a starting point for any of the projects.  My students are required to have the large comment block in the beginning of the code, but if you are not in my class, do not feel obligated to comment your code like I have my students do.  (Just remember though.  Someday you will have somebody telling you how to document your code.)
-
-I am using Visual Studio Community 2019. The nice thing about that Integrated Development Environment (IDE) is that you can just do the cloning when you running the IDE. When you open the VS 2019, you will see the clone option right there. Some people have lamented the old start screen, but if you are cloning projects from repositories, you will probably like it. It is the first choice.
+If you are reading my book, you will want to clone your first Visual Studio project. It is similar to the variables and constants file found in the book, but slightly different.  It is a great jumping off point for not only the Variables and Constants problem (GS1-5), but can be used as a starting point for any of the projects.  My students are required to have the large comment block in the beginning of the code, but if you are not in my class, do not feel obligated to comment your code like I have my students do.  (Just remember though.  Someday you will have somebody telling you how to document your code if you become a professional coder.)
 
 **<a href="https://github.com/MichaelTMiyoshi/RPGDemo" target="_blank">RPGDemo</a>**
 
