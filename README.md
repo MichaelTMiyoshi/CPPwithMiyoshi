@@ -16,7 +16,7 @@ I am using Visual Studio Community 2019. The nice thing about that Integrated De
 
 **<a href="https://github.com/MichaelTMiyoshi/RPGDemo" target="_blank">RPGDemo</a>**
 
-This repo is an example of the RPG project given in the book.  As I note in the README file of the repo, look at the branches in chronological order, especially if you are just starting to code in C++.  By the way, it is a very tiny RPG.  If you can even call it that.
+This repo is an example of the RPG project given in the book.  As I note in the README file of the repo, look at the branches in chronological order, especially if you are just starting to code in C++.  By the way, it is a very tiny RPG.  If you can even call it an RPG.
 
 **<a href="https://github.com/MichaelTMiyoshi/WilliamsGameEngineVS2019" target="_blank">Game Engine Tutorial</a>**
 
