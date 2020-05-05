@@ -47,3 +47,5 @@ Goal Sheet Number | Topic(s) Covered
 * The Advanced Goal Sheet is simply a tool I use for my advanced students to tell me what progress they are making toward finishing their games or apps.  My intro students (who use my book and perhaps this repo) create their own games based on the Game Engine Tutorial.  Those six weeks are what many of them have longed for from day one.  But by the time they get there, they realize that they had so much to learn along the way.
 
 * I already mentioned it, but my students have access to all the goal sheets from the time they first logon to the system.  And once I am done with this repo, everybody will have access to those goal sheets.  At least the problems in them.
+
+* I am not sure that there are any new computer programming problems under the sun.  I do not konw if you can copyright simple programming problems, and I do not claim to have any exclusive rights to even the problems that I think I came up with on my own.  I am sure most of the problems I list in this repo came from other sources in one form or another.  If I have infringed upon anybody's copyright, please let me know so that I might correct the oversight.
