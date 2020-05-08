@@ -10,7 +10,7 @@ At first, it will have a few Visual Studio projects that people can clone.  It w
 ### Notes on Integrated Development Environment (IDE)
 I am using [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) 2019. The nice thing about that Integrated Development Environment (IDE) is that you can just do the cloning when you are running the IDE. When you open the VS 2019, you will see the clone option right there. Some people have lamented the demise of the old start screen, but if you are cloning projects from repositories, you will probably like it. It is the first choice.
 
-If you are not using Visual Studio, you can still benefit from the repos.  Just create your projects (and/or repos) in your IDE of choice.  Then, grab the .cpp files from my repos.  This will work with all of my repos except the Game Engine Tutorial.  You will need to create an SFML project and probably a bunch more work.  Or you can just use Visual Studio for that project.  After all, the community edition is free.
+If you are not using Visual Studio, you can still benefit from the repos.  Just create your projects (and/or repos) in your IDE of choice.  Then, grab the .cpp files from my repos.  This will work with all of my repos except the Game Engine Tutorial.  You will need to create an [SFML](https://www.sfml-dev.org/) project and probably a bunch more work.  Or you can just use Visual Studio for that project.  After all, the community edition is free.
 
 ### What Is a Repo?
 
