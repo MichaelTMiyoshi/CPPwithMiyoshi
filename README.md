@@ -5,7 +5,7 @@ I provide my book, <a href="https://amzn.to/3bQuePT" target="_blank"><i>C++ with
 
 This repo will change and grow in time with feedback from my students and other readers.
 
-At first, it will have code snippets and a couple Visual Studio projects that people can clone.  It will then include problems and projects and something I like to call competency tests.  Who knows where it will go from there.
+At first, it will have a few Visual Studio projects that people can clone.  It will then include programming [problems](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/tree/master/Problems) and projects and something I like to call competency tests.  I also plan to include code snippets sometime.  Who knows where it will go from there?
 
 ### Notes on Integrated Development Environment (IDE)
 I am using [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) 2019. The nice thing about that Integrated Development Environment (IDE) is that you can just do the cloning when you are running the IDE. When you open the VS 2019, you will see the clone option right there. Some people have lamented the demise of the old start screen, but if you are cloning projects from repositories, you will probably like it. It is the first choice.
