@@ -1,8 +1,8 @@
 # Goal Sheet 03
 
-**Problem GS03-01 (RPG start)**
+**Problem GS03-01 ([RPG](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/RPG_Requirements.md) start)**
 
-Continue to make your RPG.  (Keep adding to your original project.  Which also means you need to update your pseudocode and maintenance log.)  You will have a player who has health (or hit) points and damage points.  The health (hit) points are for how much health the player has and the damage points are for how much damage the player can inflict on a non-player character (NPC).
+Continue to make your [RPG](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/RPG_Requirements.md).  (Keep adding to your original project.  Which also means you need to update your pseudocode and maintenance log.)  You will have a player who has health (or hit) points and damage points.  The health (hit) points are for how much health the player has and the damage points are for how much damage the player can inflict on a non-player character (NPC).
 
 Below is some pseudocode to help you with your coding.  (The pseudocode is also the requirements for the program so far.)
 
