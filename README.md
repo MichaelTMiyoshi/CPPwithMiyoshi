@@ -8,9 +8,21 @@ This repo will change and grow in time with feedback from my students and other 
 At first, it will have code snippets and a couple Visual Studio projects that people can clone.  It will then include problems and projects and something I like to call competency tests.  Who knows where it will go from there.
 
 ### Notes on Integrated Development Environment (IDE)
-I am using Visual Studio Community 2019. The nice thing about that Integrated Development Environment (IDE) is that you can just do the cloning when you are running the IDE. When you open the VS 2019, you will see the clone option right there. Some people have lamented the demise of the old start screen, but if you are cloning projects from repositories, you will probably like it. It is the first choice.
+I am using [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) 2019. The nice thing about that Integrated Development Environment (IDE) is that you can just do the cloning when you are running the IDE. When you open the VS 2019, you will see the clone option right there. Some people have lamented the demise of the old start screen, but if you are cloning projects from repositories, you will probably like it. It is the first choice.
 
 If you are not using Visual Studio, you can still benefit from the repos.  Just create your projects (and/or repos) in your IDE of choice.  Then, grab the .cpp files from my repos.  This will work with all of my repos except the Game Engine Tutorial.  You will need to create an SFML project and probably a bunch more work.  Or you can just use Visual Studio for that project.  After all, the community edition is free.
+
+### What Is a Repo?
+
+It might seem overwhelming if you are learning to program and then you get sent to GitHub to "clone a repo."  Do not worry.  A repo is essentially just a folder where you keep your stuff.  But let us step back a step.  Repo is short for REPOSITORY.  And a repository is just a place to hold stuff.  So a Git or GitHub repo just holds your stuff in a certain way.  (See more at [GitHub: About Repositories](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-repositories) page.)
+
+[Git](https://en.wikipedia.org/wiki/Git) is an open source control system.  You use it on your local computer and you can also use it to interface with online storage and collaboration spaces like [GitHub](https://GitHub.com/about).  You will need an account if you want to store your own repos on GitHub, but you can clone repos without one.  You can either make GitHub repos public or private.  Private means that only you and anybody you invite to collaborate with you can see your repo(s).  Public is just that, public.  Anybody can see your repo and all that is in it.
+
+So what is cloning?  [Cloning](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) is taking somebody else's public repo and copying it for your own use.  You might just want to see what it does or you might want to change it or you might want to contribute to some project.  Usually, you start by cloning the repo (and thus the project).  If you want to contribute to somebody's project, you will need to [fork](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) the repo.
+
+Forking and Cloning and Repos.  Oh my!
+
+Do not worry.  There are lots of resources to help you on your way.  For instance: [Forking vs. Cloning](https://github.community/t5/Support-Protips/The-difference-between-forking-and-cloning-a-repository/ba-p/1372#) and all the links in this section and lots more.
 
 ## Associated Repos:
 
@@ -26,4 +38,4 @@ This repo is an example of the RPG project given in the book.  As I note in the 
 
 **<a href="https://github.com/MichaelTMiyoshi/WilliamsGameEngineVS2019" target="_blank">Game Engine Tutorial</a>**
 
-The game engine tutorial is an SFML project, and is a precursor to the culminating project I have in my class.  The tutorial and initial project were written by <a href="https://github.com/ericwill-msft" target="_blank">Eric Williams</a>).  The Visual Studio 2019 version of the project was updated (from the 2015 version) by <a href="https://github.com/MikeMag" target="_blank">Mike Magruder</a>.
+The game engine tutorial is an SFML project, and is a precursor to the culminating project I have in my class.  The tutorial and initial project were written by <a href="https://github.com/ericwill-msft" target="_blank">Eric Williams</a>.  The Visual Studio 2019 version of the project was updated (from the 2015 version) by <a href="https://github.com/MikeMag" target="_blank">Mike Magruder</a>.
