@@ -22,7 +22,7 @@ Visual Studio will open to what is hopefully a familiar screen.  Look for the So
 
 Solution Explorer | Team Explorer
 ----------------- | -------------
-![Visual Studio Solution Explorer](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/images/05CPPVSSolutionExplorer.png) | ![Visual Studio Team Explorer](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/images/06CPPVSTeamExplorer.png)
+![Visual Studio Solution Explorer](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/images/05CPPVSSolutionExplorer.png) | ![Visual Studio Team Explorer](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/images/06CPPVSTeamExplorer-long.png)
 
 Look in Solution Explorer and you should recognize the folder and file structure.  If there are just triangles by the names, click on the topmost one that is not expanded to see what is there.  When you get to the file that ends with .sln, you have found your solution file.  Double click that .sln file to open the solution.
 
