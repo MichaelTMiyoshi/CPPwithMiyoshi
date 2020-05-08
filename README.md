@@ -13,6 +13,9 @@ I am using Visual Studio Community 2019. The nice thing about that Integrated De
 If you are not using Visual Studio, you can still benefit from the repos.  Just create your projects (and/or repos) in your IDE of choice.  Then, grab the .cpp files from my repos.  This will work with all of my repos except the Game Engine Tutorial.  You will need to create an SFML project and probably a bunch more work.  Or you can just use Visual Studio for that project.  After all, the community edition is free.
 
 ## Associated Repos:
+
+(If you have not cloned a repo yet, open the [CloneRepo.md](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/CloneRepo.md) file for directions (with pictures) on how to do it.)
+
 **<a href="https://github.com/MichaelTMiyoshi/CPPwithMiyoshi-01VarsAndConsts" target="_blank">Variables and Constants</a>**  (First repo to clone)
 
 If you are reading my book, you will want to clone your first Visual Studio project. It is similar to the variables and constants file found in the book, but slightly different.  It is a great jumping off point for not only the Variables and Constants problem (GS1-5), but can be used as a starting point for any of the projects.  My students are required to have the large comment block in the beginning of the code, but if you are not in my class, do not feel obligated to comment your code like I have my students do.  (Just remember though.  Someday you will have somebody telling you how to document your code if you become a professional coder.)
