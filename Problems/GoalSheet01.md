@@ -24,7 +24,7 @@ Output “Hello World” to the screen along with at least three other lines.  M
 
 **Problem GS01-04 ([RPG](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/RPG_Requirements.md) Instructions) (also counts as project points)**
 
-Create some instructions and introductions for your RPG.  Tell the user what is going to happen (or at least, what you intend to happen).  You may not have any way to know how the user will give input yet, but that is okay.  Just give a few introductory remarks and maybe a little back story on the adventure.  You need to also tell who the coder is.  (This counts as both a program for your goal sheet and in the major project section of the grades.)
+Create some instructions and introductions for your [RPG](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/RPG_Requirements.md).  Tell the user what is going to happen (or at least, what you intend to happen).  You may not have any way to know how the user will give input yet, but that is okay.  Just give a few introductory remarks and maybe a little back story on the adventure.  You need to also tell who the coder is.  (This counts as both a program for your goal sheet and in the major project section of the grades.)
 
 **Problem GS01-05 (Variables and Constants)**
 
