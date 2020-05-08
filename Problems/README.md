@@ -23,9 +23,9 @@ Below are the goal sheets with their associated descriptions (including the catc
 
 Goal Sheet Number | Topic(s) Covered
 ----------------- | ----------------
-01 | PBJ, Hello World, Binary numbers, Variables and Constants
-02 | Input, Math
-03 | Branching
+[01](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/GoalSheet01.md) | PBJ, Hello World, Binary numbers, Variables and Constants
+[02](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/GoalSheet02.md) | Input, Math
+[03](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/GoalSheet03.md) | Branching
 04 | Looping
 05 | Catch up (no mustard)
 06 | Functions
@@ -48,4 +48,4 @@ Goal Sheet Number | Topic(s) Covered
 
 * I already mentioned it, but my students have access to all the goal sheets from the time they first logon to the system.  And once I am done with this repo, everybody will have access to those goal sheets.  At least the problems in them.
 
-* I am not sure that there are any new computer programming problems under the sun.  I do not konw if you can copyright simple programming problems, and I do not claim to have any exclusive rights to even the problems that I think I came up with on my own.  I am sure most of the problems I list in this repo came from other sources in one form or another.  If I have infringed upon anybody's copyright, please let me know so that I might correct the oversight.
+* I am not sure that there are any new computer programming problems under the sun.  I do not know if you can copyright simple programming problems, and I do not claim to have any exclusive rights to even the problems that I think I came up with on my own.  I am sure most of the problems I list in this repo came from other sources in one form or another.  If I have infringed upon anybody's copyright, please let me know so that I might correct the oversight.
