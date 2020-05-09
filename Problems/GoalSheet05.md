@@ -1,8 +1,13 @@
 # Goal Sheet 05
 
-Catch up goal sheet.  There are no mustard goal sheets, but as a student of mine once noted, students should relish all goal sheets.  (Thanks Connor.)
+Catch up goal sheet.  I use this goal sheet (and several others) as a time when students can catch up or get ahead as they need.
 
-The following is an excerpt from my book, _[C++ with Miyoshi](https://amzn.to/3bQuePT)_ (I suppose you could call this an ad.), that explains catch up goal sheets and has a couple humorous anecdotes.
+There are no mustard goal sheets, but as a student of mine once noted, students should relish all goal sheets.  (Thanks Connor.)
+
+The following excerpt explains catch up goal sheets a bit more and has a couple humorous anecdotes.
+
+## Catch Up and Mustard
+Excerpt from _[C++ with Miyoshi](https://amzn.to/3bQuePT)_ (I suppose you could call this an ad.)
 
 If you have looked ahead at all, you will see that there is what seems to be a numbering error.  Either that or there is a missing goal sheet.  In other words, the problems from the last chapter are numbered GS04- and the problems from the next chapter (after this one) are numbered GS06-.  So what happened to the GS05 problems?  There are none.  Or at least there are no specific new problems.
 
