@@ -26,9 +26,9 @@ Goal Sheet Number | Topic(s) Covered
 [01](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/GoalSheet01.md) | PBJ, Hello World, Binary numbers, Variables and Constants
 [02](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/GoalSheet02.md) | Input, Math
 [03](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/GoalSheet03.md) | Branching
-04 | Looping
-05 | Catch up (no mustard)
-06 | Functions
+[04](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/GoalSheet04.md) | Looping
+[05](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/GoalSheet05.md) | Catch up (no mustard)
+[06](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/GoalSheet06.md) | Functions
 07 | Advanced Data Types - enum, struct
 08 | Catch up
 09 | Catch up
