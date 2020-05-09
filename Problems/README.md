@@ -29,11 +29,11 @@ Goal Sheet Number | Topic(s) Covered
 [04](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/GoalSheet04.md) | Looping
 [05](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/GoalSheet05.md) | Catch up (no mustard)
 [06](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/GoalSheet06.md) | Functions
-07 | Advanced Data Types - enum, struct
+[07](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/GoalSheet07.md) | Advanced Data Types - enum, struct
 [08](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/GoalSheet05.md) | Catch up
 [09](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/GoalSheet05.md) | Catch up
 -- | -- Semester --
-10 | Vectors
+[10](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/GoalSheet10.md) | Vectors
 11 | File I/O
 12 | Classes
 [13](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/GoalSheet05.md) | Catch up
