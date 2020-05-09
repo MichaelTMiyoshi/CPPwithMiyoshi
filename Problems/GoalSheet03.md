@@ -31,6 +31,8 @@ Write a program that gives the user three choices of ASCII art.  Display the art
 
 **Problem GS03-06 (Non-looping Maze)**
 
-Create a maze.  The maze looks like the [linked picture](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/images/CPPMaze.png), but you need not have a graphical user interface (GUI).  Instead, you will give the user choices at each juncture.  There is a catch to this maze.  When you go through a door, that particular door (not every door in the room) shuts behind you and you cannot enter (or exit) it again.  This leads to many dead ends.
+Create a maze.  The maze looks like the picture below, but you need not have a graphical user interface (GUI).  Instead, you will give the user choices at each juncture.  There is a catch to this maze.  When you go through a door, that particular door (not every door in the room) shuts behind you and you cannot enter (or exit) it again.  This leads to many dead ends.
 
 We have not yet covered loops, so you must use nested branching.  Be aware that there are three or more levels of nesting.  Also, make sure that the user is able to take every path to the very end (even if it is a dead end).
+
+![picture](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/images/CPPMaze.png)
