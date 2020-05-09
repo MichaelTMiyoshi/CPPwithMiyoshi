@@ -34,8 +34,8 @@ Goal Sheet Number | Topic(s) Covered
 [09](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/GoalSheet05.md) | Catch up
 -- | -- Semester --
 [10](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/GoalSheet10.md) | Vectors
-11 | File I/O
-12 | Classes
+[11](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/GoalSheet11.md) | File I/O
+[12](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/GoalSheet12.md) | Classes
 [13](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/GoalSheet05.md) | Catch up
 14 | Game Engine Tutorial (first half)
 15 | Game Engine Tutorial (second half)
