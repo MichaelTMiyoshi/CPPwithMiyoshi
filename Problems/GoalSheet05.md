@@ -1,8 +1,6 @@
 # Goal Sheet 05
 
-Catch up goal sheet.  I use this goal sheet (and several others) as a time when students can catch up or get ahead as they need.
-
-There are no mustard goal sheets, but as a student of mine once noted, students should relish all goal sheets.  (Thanks Connor.)
+Catch up goal sheet.  I use this goal sheet (and several others) as a time when students can catch up or get ahead as they need.  There are no mustard goal sheets, but as a student of mine once noted, students should relish all goal sheets.  (Thanks Connor.)
 
 The following excerpt explains catch up goal sheets a bit more and has a couple humorous anecdotes.
 
