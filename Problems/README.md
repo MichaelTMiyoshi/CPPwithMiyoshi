@@ -39,9 +39,9 @@ Goal Sheet Number | Topic(s) Covered
 [13](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/GoalSheet05.md) | Catch up
 [14](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/GoalSheet14.md) | Game Engine Tutorial (first half)
 [15](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/GoalSheet14.md) | Game Engine Tutorial (second half)
-16 | Advanced Goal Sheet
-17 | Advanced Goal Sheet
-18 | Advanced Goal Sheet
+[16](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/GoalSheet16.md) | Advanced Goal Sheet
+[17](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/GoalSheet16.md) | Advanced Goal Sheet
+[18](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/GoalSheet16.md) | Advanced Goal Sheet
 
 ### Notes
 * The Advanced Goal Sheet is simply a tool I use for my advanced students to tell me what progress they are making toward finishing their games or apps.  My intro students (who use my book and perhaps this repo) create their own games based on the Game Engine Tutorial.  Those six weeks are what many of them have longed for from day one.  But by the time they get there, they realize that they had so much to learn along the way.
