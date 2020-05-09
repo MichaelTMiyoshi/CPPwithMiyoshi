@@ -37,8 +37,8 @@ Goal Sheet Number | Topic(s) Covered
 [11](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/GoalSheet11.md) | File I/O
 [12](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/GoalSheet12.md) | Classes
 [13](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/GoalSheet05.md) | Catch up
-14 | Game Engine Tutorial (first half)
-15 | Game Engine Tutorial (second half)
+[14](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/GoalSheet14.md) | Game Engine Tutorial (first half)
+[15](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/GoalSheet14.md) | Game Engine Tutorial (second half)
 16 | Advanced Goal Sheet
 17 | Advanced Goal Sheet
 18 | Advanced Goal Sheet
