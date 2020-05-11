@@ -30,7 +30,7 @@ Do not worry.  There are lots of resources to help you on your way.  For instanc
 
 **<a href="https://github.com/MichaelTMiyoshi/CPPwithMiyoshi-01VarsAndConsts" target="_blank">Variables and Constants</a>**  (First repo to clone)
 
-If you are reading my book, you will want to clone your first Visual Studio project. It is similar to the variables and constants file found in the book, but slightly different.  It is a great jumping off point for not only the Variables and Constants problem (GS1-5), but can be used as a starting point for any of the projects.  My students are required to have the large comment block in the beginning of the code, but if you are not in my class, do not feel obligated to comment your code like I have my students do.  (Just remember though.  Someday you will have somebody telling you how to document your code if you become a professional coder.)
+If you are reading my book, you will want to clone your first Visual Studio project. It is similar to the variables and constants file found in the book, but slightly different.  It is a great jumping off point for not only the Variables and Constants problem (GS01-05), but can be used as a starting point for any of the projects.  My students are required to have the large comment block in the beginning of the code, but if you are not in my class, do not feel obligated to comment your code like I have my students do.  (Just remember though.  Someday you will have somebody telling you how to document your code if you become a professional coder.)
 
 **<a href="https://github.com/MichaelTMiyoshi/RPGDemo" target="_blank">RPGDemo</a>**
 
@@ -38,7 +38,7 @@ This repo is an example of the RPG project given in the book.  As I note in the 
 
 **<a href="https://github.com/MichaelTMiyoshi/WilliamsGameEngineVS2019" target="_blank">Game Engine Tutorial</a>**
 
-The game engine tutorial is an SFML project, and is a precursor to the culminating project I have in my class.  The tutorial and initial project were written by <a href="https://github.com/ericwill-msft" target="_blank">Eric Williams</a>.  The Visual Studio 2019 version of the project was updated (from the 2015 version) by <a href="https://github.com/MikeMag" target="_blank">Mike Magruder</a>.
+The game engine tutorial is an [SFML](https://www.sfml-dev.org/) project, and is a precursor to the culminating project I have in my class.  The tutorial and initial project were written by <a href="https://github.com/ericwill-msft" target="_blank">Eric Williams</a>.  The Visual Studio 2019 version of the project was updated (from the 2015 version) by <a href="https://github.com/MikeMag" target="_blank">Mike Magruder</a>.
 
 <hr>
 
