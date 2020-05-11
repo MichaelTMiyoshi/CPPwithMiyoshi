@@ -42,6 +42,6 @@ The game engine tutorial is an SFML project, and is a precursor to the culminati
 
 <hr>
 
-By the way, here is the cover of my book.  (It is a link that I supposed could be considered an ad.)
+By the way, here is the cover of my book.  (It is a link that I suppose could be considered an ad.)
 
 [![C++ with Miyoshi book cover](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/images/CPPwithMiyoshiCover.jpg)](https://amzn.to/3bQuePT)
