@@ -24,10 +24,10 @@ int main()
 	printf(“Division problems.\n\n”);	// output message to the screen
 	int a = 3;
 	int b = 4;
-	int c = 7;
-	float x = 3;
-	float y = 4;
-	float z = 7;
+	int c;
+	float x = 3.3;
+	float y = 4.4;
+	float z;
 
 	c = a / b;
 	printf(“a / b = %d\n”, c);	// int division
