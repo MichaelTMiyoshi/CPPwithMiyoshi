@@ -45,7 +45,6 @@ int main()
 	printf(“a / y = %d\n”, c);	// int division into int variable
 	z = x / (float) b;
 	printf(“x / b = %f\n”, z);	// float division into float variable
-	int d = 0;
 
 	c = a / b;
 	printf(“a / b = %d\n”, c);	// int division
