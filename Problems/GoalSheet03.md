@@ -8,7 +8,7 @@ Below is some pseudocode to help you with your coding.  (The pseudocode is also 
 
 ```
 	Output an introduction to the screen (already done)
-	Create variables for health, hit points, and name
+	Create variables for hit points (your health), damage points (damage you give), and name
 	Choose max and min for health and hit points and randomly give them to the user
 	Address the user by name where appropriate
 ```
