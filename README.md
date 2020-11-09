@@ -18,7 +18,7 @@ It might seem overwhelming if you are learning to program and then you get sent 
 
 [Git](https://en.wikipedia.org/wiki/Git) is an open source control system.  You use it on your local computer and you can also use it to interface with online storage and collaboration spaces like [GitHub](https://GitHub.com/about).  You will need an account if you want to store your own repos on GitHub, but you can clone repos without one.  You can either make GitHub repos public or private.  Private means that only you and anybody you invite to collaborate with you can see your repo(s).  Public is just that, public.  Anybody can see your repo and all that is in it.
 
-So what is cloning?  [Cloning](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) is taking somebody else's public (or private) repo and copying it for your own use on your local computer.  You might just want to see what it does or you might want to change it or you might want to contribute to some project.  Usually, you start by cloning the repo (and thus the project).  If you want to contribute to somebody's project, you will need to [fork](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) the repo.  (Which is all I am going to say at this point, because I have yet to fork a repo.)
+So what is cloning?  [Cloning](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) is taking somebody else's public (or private) repo and copying it for your own use on your local computer.  You might just want to see what it does or you might want to change it or you might want to contribute to some project.  Usually, you start by cloning the repo (and thus the project).  If you want to contribute to somebody's project, you will need to [fork](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) the repo.  Even if you do not want to contribute to somebody else's project, you will fork a repo if you want to keep your own copy of it on GitHub.  Only clone a repo if you are only going to keep it on your local computer.  Which does seems a bit of a waste.
 
 Forking and Cloning and Repos.  Oh my!
 
@@ -26,9 +26,9 @@ Do not worry.  There are lots of resources to help you on your way.  For instanc
 
 ## Associated Repos:
 
-(If you have not cloned a repo yet, open the [CloneRepo.md](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/CloneRepo.md) file for directions (with pictures) on how to do it.)
+(If you have not cloned or forked a repo yet, open the [CloneRepo.md](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/CloneRepo.md) file for directions (with pictures) on how to do it.)
 
-**<a href="https://github.com/MichaelTMiyoshi/CPPwithMiyoshi-01VarsAndConsts" target="_blank">Variables and Constants</a>**  (First repo to clone)
+**<a href="https://github.com/MichaelTMiyoshi/CPPwithMiyoshi-01VarsAndConsts" target="_blank">Variables and Constants</a>**  (First repo to clone or fork)
 
 If you are reading my book, you will want to clone your first Visual Studio project. It is similar to the variables and constants file found in the book, but slightly different.  It is a great jumping off point for not only the Variables and Constants problem (GS01-05), but can be used as a starting point for any of the projects.  My students are required to have the large comment block in the beginning of the code, but if you are not in my class, do not feel obligated to comment your code like I have my students do.  (Just remember though.  Someday you will have somebody telling you how to document your code if you become a professional coder.)
 
