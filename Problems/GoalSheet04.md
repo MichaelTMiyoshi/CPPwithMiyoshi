@@ -8,6 +8,28 @@ Start with one of the two quizzes you made previously and make it so that each q
 
 Write a program that converts numbers to Roman numerals.  Limit the user to numbers from 1 to 3999 (inclusive), and have an error checking loop to make sure that this limit is followed.  Put the converted Roman numeral into a string that you output when finished.  While the whole is not strictly a looping problem, make sure that you have a loop around the conversions so that the user can pick a different number to convert.  When you loop the program, make sure to reset both the number (int) and the Roman numeral (string).  [Hint: you can use modulus (to find each digit) and branching or loops or a combination to find the answer.  There are several good solutions to this problem.]
 
+A couple notes on Roman numerals.  
+* You only need to convert numbers from 1-3999 (inclusive).
+* Roman numerals have up to only three repeating digits (i.e. III)
+
+Decimal | Roman
+------: | -----
+1000 | M
+900 | CM
+500 | D
+400 | DC
+100 | C
+90 | XC
+50 | L
+40 | XL
+10 | X
+9 | IX
+5 | V
+4 | IV
+1 | I
+
+Since Roman numerals only have a maximum of 3 repeating "digits," you need a way to show 4s and 9s.  These two numbers are shown with a larger number preceeded by the next higher "digit."  So 4 is IV instead of IIII, and 9 is IX instead of VIIII.  You can see this all the way through the Roman numeral system shown above through 1000.
+
 **Problem GS04-03 (Count characters in a string)**
 
 Write a program that gets user input into a string and then counts certain characters.  When you get input from the user, you need to make sure that you can get whitespace characters.  (The user will end the input by pressing a tilde (~) followed by the <ENTER> key.)  Once the input is obtained, the application will count the number of spaces, tabs, newlines, and numbers.  You do not need to determine the amount of each digit, just the total number of digits in the input.  Output the data in a readable format.  [Hint: remember that this is a looping problem.]
