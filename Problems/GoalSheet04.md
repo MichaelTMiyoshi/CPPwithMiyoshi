@@ -32,7 +32,7 @@ Since Roman numerals only have a maximum of 3 repeating "digits," you need a way
 
 **Problem GS04-03 (Count characters in a string)**
 
-Write a program that gets user input into a string and then counts certain characters.  When you get input from the user, you need to make sure that you can get whitespace characters.  (The user will end the input by pressing a tilde (~) followed by the <ENTER> key.)  Once the input is obtained, the application will count the number of spaces, tabs, newlines, and numbers.  You do not need to determine the amount of each digit, just the total number of digits in the input.  Output the data in a readable format.  [Hint: remember that this is a looping problem.]
+Write a program that gets user input into a string and then counts certain characters.  When you get input from the user, you need to make sure that you can get whitespace characters.  (The user will end the input by pressing a tilde (~) followed by the `<ENTER>` key.)  Once the input is obtained, the application will count the number of spaces, tabs, newlines, and numbers.  You do not need to determine the amount of each digit, just the total number of digits in the input.  Output the data in a readable format.  [Hint: remember that this is a looping problem.]
 
 **Problem GS04-04 (ASCII art and animation) ([pair programming](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/PairProgramming.md))**
 
