@@ -22,7 +22,7 @@ Create a comma-delimited file with an int, a float, a character array (no spaces
 
 **Problem GS11-03 (search a vector)**
 
-Write a program that will read the data from the File I/O competency test below.  You will need to create a comma or tab delimited file with the data.  Then, read the data into a vector of structs.   You want to search the data in the vector for any of the specific data (i.e. name, age, etc.).  Make sure that you get all the data that matches.  For instance, if you search for age 15, you ought to output both lines of data that have age 15 (Tom and Yuki).  You can choose to output all the data in a line or let the user choose which columns (but at least the name and searched for data).  (By the way, this will give you practice for the competency test.)
+Write a program that will read the data from the File I/O competency test [here](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/tree/master/CompetencyTests#ct--file-io).  You will need to create a comma or tab delimited file with the data.  Then, read the data into a vector of structs.   You want to search the data in the vector for any of the specific data (i.e. name, age, etc.).  Make sure that you get all the data that matches.  For instance, if you search for age 15, you ought to output both lines of data that have age 15 (Tom and Yuki).  You can choose to output all the data in a line or let the user choose which columns (but at least the name and searched for data).  (By the way, this will give you practice for the competency test.)
 
 **Problem GS11-04&05 (encrypt and decrypt files or periodic table)**
 
