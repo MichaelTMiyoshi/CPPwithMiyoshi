@@ -110,6 +110,12 @@ First name: Jo			Output: error
 
 2.	Create a string called sMName and initialize it to your middle name.  Output the first 5 characters using a loop and subscripts.  Make sure the loop does not try to access characters beyond the last char in your middle name.  (You will need a compound Boolean expression whether or not your name is less than 5 chars to make your answer more general, and to get all four points.  Loss of 1 point if a name shorter than 5 characters makes your loop give an out of bounds error.)  If you have no middle name, initialize the variable to “NoMiddleName” (with or without spaces).
 
+Expected outcome:
+```
+Middle name: Annabelle		Output: Annab
+Middle name: Jo			      Output: Jo
+```
+
 3.	Create a string called sLName and initialize it to your last name.  Output the name in reverse order.  (Without using a method from the string class or any other function that you do not write.)
 
 <hr>
