@@ -112,8 +112,9 @@ First name: Jo			Output: error
 
 Expected outcome:
 ```
-Middle name: Annabelle		Output: Annab
-Middle name: Jo			      Output: Jo
+Middle name: NoMiddleName		Output: NoMid
+Middle name: Cruz			Output: Cruz
+Middle name: Richard			Output: Richa
 ```
 
 3.	Create a string called sLName and initialize it to your last name.  Output the name in reverse order.  (Without using a method from the string class or any other function that you do not write.)
