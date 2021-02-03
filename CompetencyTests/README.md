@@ -137,11 +137,9 @@ Inputs | Output
 -7, 2  | -7
 9, 9   | 9
 
-3.	Create a function that capitalizes the first letter of a string and the letters immediately after spaces.
+3.	Create a function that capitalizes the first letter of a string and the letters immediately after spaces.  Letters that are already capitalized may remain capitalized.  You may use one of two options for your function signature, but in both options, the initial string must not be changed.
 
-You may use one of two options, but in both options, the initial string must not be changed.
-
-Option 1: The function receives a string as a parameter and returns the capitalized string.  Letters that are already capitalized may remain capitalized.  Use the function signature below: 
+Option 1: The function receives a string as a parameter and returns the capitalized string.  Use the function signature below: 
 
 ```
 string Capitalize(string original);
