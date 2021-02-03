@@ -156,8 +156,8 @@ Expected outcomes:
 Original string | Capitalized string
 ----- | -----
 the rain in spain | The Rain In Spain
-what is your quest | What Is Your Quest
-my name is INIGO | My Name Is INIGO
+what is your quest? | What Is Your Quest?
+my name is INIGO! | My Name Is INIGO!
 
 4.	(Extra Credit)  Create a function that gets a float value and the number of decimal places (int) and returns a rounded value to that many decimal places.  (Remember that when rounding, 5 or more goes up, less than 5 goes down.  Do not use the rounding, ceiling, floor, or other functions from math.h or other standard header files.)
 
