@@ -137,11 +137,29 @@ Inputs | Output
 -7, 2  | -7
 9, 9   | 9
 
-3.	Create a function that takes in two strings and capitalizes the first letter and all the letters after spaces.  The capitalized string should be placed into the first string and the second string (original) must not be changed or you will return the capitalized string.  Use one of the following function prototypes:
+3.	Create a function that capitalizes the first letter of a string and the letters immediately after spaces.
+
+You may use one of two options, but in both options, the initial string must not be changed.
+
+Option 1: The function receives a string as a parameter and returns the capitalized string.  Letters that are already capitalized may remain capitalized.  Use the function signature below: 
+
 ```
-void Capitalize(string & cap, string original);
 string Capitalize(string original);
 ```
+
+Option 2: The function reveives two strings as parameters and does not return anything.  The capitalized string should be placed into the first string (which is passed by reference) and the second string (original) is the second parameter of the function.  Use the function signature below:
+
+```
+void Capitalize(string & cap, string original);
+```
+
+Expected outcomes: 
+
+Original string | Capitalized string
+----- | -----
+the rain in spain | The Rain In Spain
+what is your quest | What Is Your Quest
+my name is INIGO | My Name Is INIGO
 
 4.	(Extra Credit)  Create a function that gets a float value and the number of decimal places (int) and returns a rounded value to that many decimal places.  (Remember that when rounding, 5 or more goes up, less than 5 goes down.  Do not use the rounding, ceiling, floor, or other functions from math.h or other standard header files.)
 
