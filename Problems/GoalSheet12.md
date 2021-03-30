@@ -1,5 +1,7 @@
 # Goal Sheet 12
 
+General comment that applies to all the goal sheet problems.  Remember that you can only return one thing from a method/function.  So if you have "setters" and "getters," remember that you can set all the data with one function, but getting the data should be done with a single "getter" per parameter.  For instance, you can set both radii in one method of the ellipse class, but you ought to have two methods to return the radii, one to return one radius, another to return the other radius.
+
 **Problem GS12-01 (ellipse class)**
 
 Write a class called ellipse and a program that tests the class.  The class must have the required element (instance variables) of an ellipse (r1, r2).  The class must also have a default constructor, methods to set the radii, methods to get each radius, a circumference method, and an area method.  The circumference and area methods must return the ellipse’s circumference and area.  Use the compiler’s built-in definition of PI in your code (remember the includes shown below, then you can use `M_PI` for Pi).  Notes: The area of an ellipse is `Pi * r1 * r2`.  The circumference of an ellipse is approximately `2 * Pi * sqrt (r1 * r2)` according to Johannes Kepler.
@@ -14,7 +16,7 @@ Write a class called rectangle and a program that tests the class.  The class mu
 
 **Problem GS12-03 (right triangle class)**
 
-Write a class called triangle and a program that tests the class.  The class must have the required elements (instance variables) of a right triangle (base and height).  The class must also have a default constructor, a method(s) to set the instance variables, a method(s) to get the instance variables, a perimeter method, and an area method.  The perimeter and area methods must return the rectangle’s perimeter and area.
+Write a class called triangle and a program that tests the class.  The class must have the required elements (instance variables) of a right triangle (base and height).  The class must also have a default constructor, a method(s) to set the instance variables, a method(s) to get the instance variables, a perimeter method, and an area method.  The perimeter and area methods must return the rectangle’s perimeter and area.  (Hint: Do not make a class variable for the hypotenuse.  Calculate it where you need it - in the perimeter method.  If you would like to add a method to return the hypotenuse, you can add it to the class and use it to find your perimeter.)
 
 **Problem GS12-04 (animal class)**
 
