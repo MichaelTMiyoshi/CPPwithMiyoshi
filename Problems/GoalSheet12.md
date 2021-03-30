@@ -18,7 +18,7 @@ Write a class called triangle and a program that tests the class.  The class mus
 
 **Problem GS12-04 (animal class)**
 
-Write an animal class.  This class must contain the animal’s name and two character traits (one character data and one numerical).  Make methods to change and get data.  Then create a program that uses the class.  As an extension, use a text file to store the data.
+Write an animal class.  This class must contain the animal’s name and two character traits (one character/string data and one numerical).  Make methods to change and get data.  Then create a program that uses the class.  As an extension, use a text file to store the data.
 
 **Problem GS12-05 (person class)**
 
