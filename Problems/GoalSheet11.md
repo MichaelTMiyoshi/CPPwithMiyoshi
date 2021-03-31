@@ -50,6 +50,7 @@ You can do this with what you know, but here are some hints to help you out.
 *	Remember how to compare integers and strings.
 *	Only read the data in one time.  You can do this in a function.  Just pass the struct vector or pass a vector by reference.
 *	Use loops to your best advantage.  And loop until the user decides to exit the program.
+*	If you decide to search for atomic weight, do not search for equality with floats.  When searching for the atomic weigt (or doing any float comparisons), search for a range.  In other words, see if the atomic weight your user is looking for is between a range of numbers, not exactly any float value.  You get to decide what range you are looking between.  For instance, if your user wants to find an element with an atomic weight of 262.0, you might give answers between 261.0 and 263.0 or between 261.5 and 262.5.  (By the way, I chose 262.0 because 2 elements in the list have that atomic weight.  So if you choose to search by weight, you should be able to give multiple elements to your user.)
 
 **Problem GS11-06 ([RPG](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/RPG_Requirements.md) state and high scores)**
 
