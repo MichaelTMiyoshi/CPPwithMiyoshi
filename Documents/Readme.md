@@ -8,4 +8,4 @@ AppOrGameDesignDocument.docx | A design document that tells the reader the plans
 AppOrGameDesignDocument.txt | The document of the same name in plain text.  (I left the header and footer stuff.)
 AppOrGameEvaluationDocument.docx | The evaluation document used in my class to tell me how well the program designer met the requirements he or she set out for the game.
 AppOrGameEvaluationDocument.txt | The document of the same name in plain text.  (I left the header and footer stuff.)
-GoalSheetAdvanced.docx | Advanced goal sheet for use in my classes.  (Goal sheets 15-18.)
+GoalSheetAdvanced.docx | Advanced goal sheet for use in my classes.  (Intro students: goal sheets 16-18.  Advanced students: all goal sheets.)
