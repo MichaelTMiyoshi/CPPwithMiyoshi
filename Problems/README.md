@@ -23,8 +23,8 @@ Below are the goal sheets with their associated descriptions (including the catc
 
 Goal Sheet Number | Topic(s) Covered
 ----------------- | ----------------
-[00](https://github.com/MichaelTMiyoshi/TeamworkWithMiyoshi)                                   | Teamwork
-[01](https://github.com/MichaelTMiyoshi/CSharpWithMiyoshi/blob/master/Problems/GoalSheet01.md) | PBJ, Hello World, Binary numbers, Variables and Constants
+[00](https://github.com/MichaelTMiyoshi/TeamworkWithMiyoshi)                                | Teamwork
+[01](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/GoalSheet01.md) | PBJ, Hello World, Binary numbers, Variables and Constants
 [02](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/GoalSheet02.md) | Input, Math
 [03](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/GoalSheet03.md) | Branching
 [04](https://github.com/MichaelTMiyoshi/CPPwithMiyoshi/blob/master/Problems/GoalSheet04.md) | Looping
